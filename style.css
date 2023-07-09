@@ -1,0 +1,25 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px palevioletred;
+
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+.copyrightfooter{
+    position: fixed;
+    color: whitesmoke;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(0, 213, 255);
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(158, 158, 236);
+}
